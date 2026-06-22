@@ -1,6 +1,15 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+/*
+Base Horizon - Week 2
+
+Counter with:
+- increment
+- decrement
+- reset
+*/
+
 contract CounterV2 {
 
     uint256 public count = 0;
