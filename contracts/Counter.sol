@@ -4,8 +4,7 @@ pragma solidity ^0.8.20;
 /*
 Base Horizon - Week 2
 
-Counter with:
-- increment
+Basic counter
 */
 
 
