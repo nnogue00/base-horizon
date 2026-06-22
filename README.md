@@ -17,8 +17,27 @@ To learn blockchain development, smart contracts and decentralized applications 
 - Learn Solidity
 - Deploy smart contracts
 - Build decentralized applications
-- Share knowledge with the community
+- Contribute to Base ecosystem
 
-## Founder
+## Current Status
 
-Nuno
+### Completed
+
+- Blockchain Fundamentals
+- Wallets
+- BaseScan
+- GitHub
+- HelloBase
+- MessageBoard
+- Counter
+- CounterV2
+- CounterV3
+- OwnerCounter
+
+### In Progress
+
+- SimpleBank
+
+## Repository
+
+https://github.com/nnogue00/base-horizon
