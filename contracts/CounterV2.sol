@@ -7,7 +7,8 @@ Base Horizon - Week 2
 Counter with:
 - increment
 - decrement
-- reset
+
+feat: add Counter contract
 */
 
 contract CounterV2 {
