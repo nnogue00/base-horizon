@@ -1,6 +1,15 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+/*
+Base Horizon - Week 2
+
+Counter with:
+- ouner control
+- increment
+*/
+
+
 contract OwnerCounter {
 
     address public owner;
