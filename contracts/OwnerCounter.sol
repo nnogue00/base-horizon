@@ -4,9 +4,7 @@ pragma solidity ^0.8.20;
 /*
 Base Horizon - Week 2
 
-Counter with:
-- ouner control
-- increment
+Owner access control
 */
 
 
