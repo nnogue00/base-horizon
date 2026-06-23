@@ -1,34 +1,38 @@
-# Progress Tracker
+# Base Horizon Progress
 
-## Week 1
+## Week 1 - Foundations
+- [x] Blockchain fundamentals
+- [x] Wallets
+- [x] Base ecosystem
+- [x] BaseScan
+- [x] GitHub setup
+- [x] Smart contract fundamentals
 
-Completed:
+## Week 2 - Solidity Fundamentals
 
-- Blockchain
-- Wallets
-- Seed Phrase Security
-- Ethereum
-- Base
-- BaseScan
-- GitHub
-- Smart Contracts
+### Completed
+- [x] HelloBase
+- [x] MessageBoard
+- [x] Counter
+- [x] CounterV2
+- [x] CounterV3
+- [x] OwnerCounter
+- [x] SimpleBank
 
----
+### Concepts Learned
+- [x] State variables
+- [x] Functions
+- [x] Parameters
+- [x] Conditionals (if)
+- [x] require()
+- [x] return
+- [x] view
+- [x] pure
+- [x] Local variables
+- [x] msg.sender
+- [x] mappings
 
-## Week 2
-
-Completed:
-
-- HelloBase
-- MessageBoard
-- Counter
-- CounterV2
-- CounterV3
-- OwnerCounter
-- SimpleBank
-
----
-
-Current Lesson:
-
-Mappings
+### In Progress
+- [ ] UserBank
+- [ ] Structs
+- [ ] Events
