@@ -9,11 +9,3 @@ Contract Address:
 Network:
 
 Base Mainnet
-
-Deployment Tool:
-
-Remix IDE
-
-Owner Wallet:
-
-0x2302c854a40aFfc9303495D5Cf29D075Be2424cC
