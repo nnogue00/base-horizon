@@ -8,7 +8,7 @@ Counter with:
 - increment
 - decrement
 - reset
-- require validation
+- with require validation
 */
 
 contract CounterV3 {
