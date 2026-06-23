@@ -1,6 +1,15 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+/*
+Base Horizon - Week 2
+User Bank
+
+mapping cria uma tabela
+msg.sender pega o endereço da carteira
+
+*/
+
 contract UserBank {
 
     mapping(address => uint256) public balances;
