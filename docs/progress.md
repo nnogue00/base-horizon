@@ -25,9 +25,10 @@ Completed:
 - CounterV2
 - CounterV3
 - OwnerCounter
+- SimpleBank
 
 ---
 
 Current Lesson:
 
-SimpleBank
+Mappings
