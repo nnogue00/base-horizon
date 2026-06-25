@@ -54,7 +54,8 @@
 
 ### Next Step
 
-* [x] Prevent duplicate profiles with require()
-* [x] Profile update functions
-* [ ] Structs with additional fields
-* [ ] Events
+Start Phase 3 - Tokens
+
+- ERC20
+- ERC721
+- NFT Collection
