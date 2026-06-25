@@ -19,6 +19,9 @@
 - [x] CounterV3
 - [x] OwnerCounter
 - [x] SimpleBank
+- [x] UserBank
+- [x] UserProfile
+- [x] UserProfileV2
 - [x] Mapping
 - [x] Structs
 
