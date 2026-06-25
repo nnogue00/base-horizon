@@ -22,6 +22,7 @@
 * [x] SimpleBank
 * [x] UserBank
 * [x] UserProfile
+* [x] UserProfileV2
 
 ### Concepts Learned
 
@@ -38,6 +39,8 @@
 * [x] mapping(address => uint256)
 * [x] struct
 * [x] mapping(address => User)
+* [x] Business logic validation
+* [x] Profile existence checks
 
 ### Remix Practice
 
@@ -46,10 +49,12 @@
 * [x] Tested createProfile()
 * [x] Tested getMyProfile()
 * [x] Observed mapping updates using msg.sender
+* [x] Tested updateProfile()
+* [x] Tested duplicate profile protection
 
 ### Next Step
 
-* [ ] Prevent duplicate profiles with require()
-* [ ] Profile update functions
+* [x] Prevent duplicate profiles with require()
+* [x] Profile update functions
 * [ ] Structs with additional fields
 * [ ] Events
