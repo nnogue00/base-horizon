@@ -19,8 +19,8 @@
 - [x] CounterV3
 - [x] OwnerCounter
 - [x] SimpleBank
-- [ ] Mapping
-- [ ] Structs
+- [x] Mapping
+- [x] Structs
 
 ---
 
