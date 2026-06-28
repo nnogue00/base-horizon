@@ -47,6 +47,9 @@
 * [x] Total Supply
 * [x] Token transfer logic
 * [x] Address validation
+* [x] Events
+* [x] Event declaration
+* [x] Event emission (emit)
 
 ### Remix Practice
 
@@ -62,10 +65,11 @@
 * [x] Tested token transfers
 * [x] Validated balances mapping
 * [x] Validated totalSupply
+* [x] Tested Transfer event
 
 ### Next Step
 
-* [ ] Events
+* [ ] BaseHorizonTokenV2
 * [ ] ERC20 Standard
 * [ ] OpenZeppelin ERC20
 * [ ] Allowances (approve / transferFrom)
