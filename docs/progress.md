@@ -23,6 +23,7 @@
 * [x] UserBank
 * [x] UserProfile
 * [x] UserProfileV2
+* [x] BaseHorizonTokenBasic
 
 ### Concepts Learned
 
@@ -41,6 +42,11 @@
 * [x] mapping(address => User)
 * [x] Business logic validation
 * [x] Profile existence checks
+* [x] Constructor
+* [x] Token balances
+* [x] Total Supply
+* [x] Token transfer logic
+* [x] Address validation
 
 ### Remix Practice
 
@@ -51,11 +57,17 @@
 * [x] Observed mapping updates using msg.sender
 * [x] Tested updateProfile()
 * [x] Tested duplicate profile protection
+* [x] Tested constructor()
+* [x] Tested token deployment
+* [x] Tested token transfers
+* [x] Validated balances mapping
+* [x] Validated totalSupply
 
 ### Next Step
 
-Start Phase 3 - Tokens
-
-- ERC20
-- ERC721
-- NFT Collection
+* [ ] Events
+* [ ] ERC20 Standard
+* [ ] OpenZeppelin ERC20
+* [ ] Allowances (approve / transferFrom)
+* [ ] ERC721
+* [ ] NFT Collection
