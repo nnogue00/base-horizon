@@ -3,11 +3,17 @@ pragma solidity ^0.8.20;
 
 contract BaseHorizonTokenBasic {
 
-string public name = "Base Horizon Token";
-string public symbol = "BHZN";
-uint256 public totalSupply = 1000000;
+    string public name = "Base Horizon Token";
+    string public symbol = "BHZN";
+    uint256 public totalSupply = 1000000;
 
-mapping(address => uint256) public balances;
+    mapping(address => uint256) public balances;
+
+    event Transfer(
+        address from,
+        address to,
+        uint256 amount
+    );
 
     constructor(){
         balances[msg.sender] = totalSupply;
@@ -30,9 +36,15 @@ mapping(address => uint256) public balances;
 
         balances[msg.sender] -= _amount;
         balances[_to] += _amount;
+        
+        emit Transfer(
+            msg.sender,
+            _to,
+            _amount
+        );
+
     }
 
 
-    }
-
+}
 
