@@ -18,7 +18,21 @@ mapping(address => uint256) public balances;
     uint256 _amount
     ) public {
 
+        require(
+        balances[msg.sender] >= _amount,
+        "Insufficient balance"
+        );
+
+        require(
+        _to != address(0),
+        "Invalid recipient"
+        );
+
+        balances[msg.sender] -= _amount;
+        balances[_to] += _amount;
     }
 
 
-}
+    }
+
+
