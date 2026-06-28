@@ -23,6 +23,11 @@
 * [x] UserBank
 * [x] UserProfile
 * [x] UserProfileV2
+
+## Week 3 - Tokens (In Progress)
+
+### Contracts Completed
+
 * [x] BaseHorizonTokenBasic
 
 ### Concepts Learned
