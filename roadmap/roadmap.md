@@ -30,7 +30,8 @@
 ## Phase 3 - Tokens
 
 * [x] BaseHorizonTokenBasic
-* [ ] Events
+* [x] Events
+* [ ] BaseHorizonTokenV2
 * [ ] ERC20
 * [ ] ERC721
 * [ ] NFT Collection
