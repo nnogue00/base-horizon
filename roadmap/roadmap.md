@@ -31,7 +31,7 @@
 
 * [x] BaseHorizonTokenBasic
 * [x] Events
-* [ ] BaseHorizonTokenV2
+* [x] BaseHorizonTokenV2
 * [ ] ERC20
 * [ ] ERC721
 * [ ] NFT Collection
