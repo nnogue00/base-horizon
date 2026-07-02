@@ -29,6 +29,7 @@
 ### Contracts Completed
 
 * [x] BaseHorizonTokenBasic
+* [x] BaseHorizonTokenV2
 
 ### Concepts Learned
 
@@ -55,6 +56,8 @@
 * [x] Events
 * [x] Event declaration
 * [x] Event emission (emit)
+* [x] Encapsulation (private state variables)
+* [x] Public interface (balanceOf)
 
 ### Remix Practice
 
@@ -71,10 +74,11 @@
 * [x] Validated balances mapping
 * [x] Validated totalSupply
 * [x] Tested Transfer event
+* [x] Tested balanceOf()
+* [x] Validated private balances mapping
 
 ### Next Step
 
-* [ ] BaseHorizonTokenV2
 * [ ] ERC20 Standard
 * [ ] OpenZeppelin ERC20
 * [ ] Allowances (approve / transferFrom)
